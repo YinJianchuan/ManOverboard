@@ -30,6 +30,7 @@ Table 1. The detail of images and annotations about ManOverboard benchmark
 |person|28719|||
 |person with buoy|2181|||
 |person with jacket|1216|||
+
 This benchamark provides researchers with a comprehensive foundation to advance detection and recognition for maritime small targets.
 
 
