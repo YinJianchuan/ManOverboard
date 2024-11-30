@@ -1,9 +1,6 @@
 **ManOverboard Benchmark Overview**
 
-The ManOverboard Benchmark is a benchmark proposed by Professor Yin Jianchuan’s team from the Naval Architecture and Shipping College at Guangdong Ocean University, aimed at detecting small targets at sea. The images in this benchmark was collected using the DJI Mavic 2 drone at a beach in Zhanjiang, Guangdong Province, China. 
-
-![本地路径](The detailed location of the beach.png "相对路径演示") 
-Figure 1. The detailed location of the beach(+110.54032, +21.01508)
+The ManOverboard Benchmark is a benchmark proposed by Professor Yin Jianchuan’s team from the Naval Architecture and Shipping College at Guangdong Ocean University, aimed at detecting small targets at sea. The images in this benchmark was collected using the DJI Mavic 2 drone at a beach in Zhanjiang, Guangdong Province, China(+110.54032, +21.01508). 
 
 Table 1. The detail of external factors in the area
 
