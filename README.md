@@ -20,7 +20,8 @@ The UAV collected videos by setting different flight conditions, including:
 
 The video obtained from the UAV acquisition was taken every 5 seconds and filtered to finalize 956 images, and the resolution of the images is 3840 x 2160. The team confirmed that the benchmark contained 956 images and 35119 objects with bounding boxes. In addition, the benchmark was divided into a training set and a test set at a ratio of approximately 9:1, as described below:
 
-- Train Set: 860 images
+- Train Set: 764 images
+- Val Set: 96 images
 - Test Set: 96 images
 
 Each image has been manually annotated and categorized in both COCO and YOLO formats, and all annotations were reviewed by vision experts.. The annotations are divided into three categories:
@@ -41,9 +42,14 @@ Table 2. The detail of images and annotations about ManOverboard benchmark
 |person with buoy|2181|227|2408|
 |person with jacket|1216|112|1328|
 
-The download link below:
+- The download link below:
 通过网盘分享的文件：ManOverboard
 链接: https://pan.baidu.com/s/1yyuZYjH4w4zt5DH4t-_FLA?pwd=YJCT 提取码: YJCT
+
+- Reference:
+Guokang, Xu, et al. "Maritime Man-Overboard Search Based on MOB-Detector with Modulated Deformable Convolution and Bi-Directional Feature Fusion Network." Frontiers in Marine Science 12: 1547747.
+
+
 
 
 
