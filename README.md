@@ -41,7 +41,9 @@ Table 2. The detail of images and annotations about ManOverboard benchmark
 |person with buoy|2181|227|2408|
 |person with jacket|1216|112|1328|
 
-
+The download link below:
+通过网盘分享的文件：ManOverboard
+链接: https://pan.baidu.com/s/1yyuZYjH4w4zt5DH4t-_FLA?pwd=YJCT 提取码: YJCT
 
 
 
